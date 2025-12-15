@@ -1,4 +1,4 @@
-// file: tic_tac_toe.cpp
+
 #include <algorithm>
 #include <array>
 #include <iostream>
